@@ -15,3 +15,6 @@ This application, developed as part of a collaborative project at Quinnipiac Uni
 - Git installed on your machine
 - Access to the internet to reach GitHub APIs
 - Personal Access Token from GitHub with appropriate permissions (repo creation and push)
+
+
+Download Libraries (https://github.com/CSC109/GitHubApiClient) (https://github.com/CSC109/GitSubprocessClient)
